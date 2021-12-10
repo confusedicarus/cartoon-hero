@@ -1,0 +1,64 @@
+body{
+	margin: 0;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	line-height: 25px;
+}
+
+header{
+	background-color: #953536;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 10px;
+}
+
+h1, h2{
+	font-family: "Aguafina Script", cursive;
+}
+
+header h1{
+	color:  white;
+	font-size: 50px;
+
+}
+header img{
+	border-radius: 50px;
+	width: 500px;
+	border: 10px solid #bd8e39;
+}
+
+h2{
+	font-size: 30px;
+}
+a{
+	color:black ;
+}
+a:hover{
+	color: #953536;
+}
+
+main{
+	Max-width: 900px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+main img{
+	max-width: 100%;
+}
+footer{
+	background-color: #953536;
+	text-align: center;
+	color: white;
+	padding: 30px;
+}
+footer p{
+	margin: 0;
+}
+p.caption{
+	color: #999999;
+	text-align: center;
+	font-style: italic;
+	margin-top: 0px;
+	margin-bottom: 5px;
+}
